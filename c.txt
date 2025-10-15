@@ -5,3 +5,4 @@ hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?sni=YAPC-
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#%3E%3E%40configV2rayNG%3A%3ANL
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#%3E%3E%40configV2rayNG%3A%3ANL
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#%3E%3E%40configV2rayNG%3A%3ANL
+vless://7310ccbb-3940-4264-88cc-b3da92877395@tito.floorshoping22.com:2087?encryption=none&security=tls&sni=tito.floorshoping22.com&alpn=h2&fp=chrome&allowInsecure=1&type=grpc#FI%F0%9F%87%AB%F0%9F%87%AE
